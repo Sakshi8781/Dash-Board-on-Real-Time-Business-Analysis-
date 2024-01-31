@@ -22,7 +22,7 @@ This Power BI project provides a real-time monthly analysis dashboard, allowing 
 
 1. Install Power BI: If you haven't already, download and install Power BI Desktop from the official Microsoft website.
 
-2. Download Project: Clone or download the project repository from [].
+2. Download Project: Clone or download the project repository from [Sakshi8781/Dash-Board-on-Real-Time-Business-Analysis].
 
 3. Connect Data Source: Configure the data source connection in Power BI Desktop to link the dashboard with your dataset.
 
